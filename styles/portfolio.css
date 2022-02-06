@@ -2,6 +2,7 @@
   --primary-color: #5b4d4d;
   --secondary-color: #f1e6dc;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  
 }
 
 h1,
@@ -10,6 +11,7 @@ h2,
 p {
   text-align: center;
   color: #5b4d4d;
+ 
 }
 h1 {
   font-size: 55px;
@@ -20,6 +22,7 @@ h1 {
   color: var(--primary-color);
   line-height: 1.5;
   display: flex;
+  
 }
 p,
 .row {
@@ -28,6 +31,7 @@ p,
   margin: 50px;
   padding: 100px 35px;
   font-size: 25px;
+  
 }
 .aboutSum {
   margin: 10px;
@@ -35,6 +39,7 @@ p,
 .name {
   font-size: 30px;
   margin: none;
+  
 }
 
 .hero{
@@ -44,6 +49,7 @@ p,
   margin: 25px  auto;
 }body{
 background-color: #a88d7c; 
+font-family: 'Playfair Display', serif;
   
 }
 .tagLine{
