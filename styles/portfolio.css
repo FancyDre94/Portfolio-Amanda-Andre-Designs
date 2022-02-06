@@ -34,12 +34,21 @@ p,
 }
 .name {
   font-size: 30px;
+  margin: none;
 }
-body {
-  background-color: #a88d7c;
-  display: inline;
-  max-width: 700px;
-  margin: 50px auto;
+
+.hero{
+   background-color: --secondary-color
+   
+  max-width: auto;
+  margin: 25px  auto;
+}body{
+background-color: #a88d7c; 
+  
+}
+.tagLine{
+    text-align: center;
+    font-size: 15px;
 }
 
 #selfie {
